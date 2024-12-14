@@ -1,1 +1,1 @@
-crud app without springboot
+tiny crud app without springboot
